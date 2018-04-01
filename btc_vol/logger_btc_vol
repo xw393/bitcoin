@@ -1,0 +1,4 @@
+[2018-04-01 04:30:01.783045] INFO: BTC Volume: Start to parse data from website.
+[2018-04-01 04:30:02.356000] INFO: BTC Volume: Start loading data into the database.
+[2018-04-01 04:30:02.405869] INFO: BTC Volume: Data is inserted.
+[2018-04-01 04:30:02.468101] INFO: BTC Volume: Updating BTC trading volume data completed.
